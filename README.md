@@ -2,7 +2,7 @@
 Data Analyst avec 5 ans d’expérience en analyse économique et recherche appliquée. Formé en Python, SQL et Power BI, je mets la donnée au service de la prise de décision. Sensible aux enjeux environnementaux et énergétiques, j’apporte une approche analytique rigoureuse pour transformer les données en leviers d’action durables.
 
 
-## 🌐 Socials:
+## 🌐 Pour me contacter :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aliou-seck/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliou.seck@le-campus-numerique.fr) 
 
 # 💻 Compétences techniques :
