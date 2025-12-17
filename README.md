@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst avec 5 ans d’expérience en analyse économique et recherche appliquée. <br>Formé en Python, SQL et Power BI, je mets la donnée au service de la prise de décision. <br>Sensible aux enjeux environnementaux et énergétiques, j’apporte une approche analytique rigoureuse pour transformer les données en leviers d’action durables.
+Data Analyst avec 5 ans d’expérience en analyse économique et recherche appliquée. Formé en Python, SQL et Power BI, je mets la donnée au service de la prise de décision. Sensible aux enjeux environnementaux et énergétiques, j’apporte une approche analytique rigoureuse pour transformer les données en leviers d’action durables.
 
 
 ## 🌐 Socials:
